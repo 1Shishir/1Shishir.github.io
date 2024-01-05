@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{a as r,b as i,c as n,d as p,e as m,l as s,n as a,o as f,p as c,s as d,y as u}from"./chunk-T4OEXKBI.mjs";var l=(()=>{let o=class o{constructor(){this.title="1Shishir.github.io"}};o.\u0275fac=function(e){return new(e||o)},o.\u0275cmp=r({type:o,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(e,y){e&1&&(i(0,"h3"),p(1,"Hasanur Rahman Shishir"),n())},dependencies:[a]});let t=o;return t})();var g=[];var v={providers:[u(g),c()]};var x={providers:[d()]},h=s(v,x);var S=()=>f(l,h),B=S;export{B as a};
